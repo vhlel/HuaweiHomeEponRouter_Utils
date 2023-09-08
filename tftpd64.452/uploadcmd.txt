@@ -1,0 +1,5 @@
+只在wap模式下
+
+load pack by tftp svrip 192.168.1.2 remotefile payload-mod.bin
+
+backup cfg by tftp svrip 192.168.1.150 remotefile hw_ctree.xml
